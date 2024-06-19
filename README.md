@@ -23,3 +23,6 @@ and run below for cleanout
 docker-compose down --rmi all
 ```
 
+## Demo
+![rabbitMQ - shorten](https://github.com/thomas-chiang/message_brokers/assets/84237929/01ed2c9f-b24e-4f37-85e3-b3d36b2fc9cc)
+
